@@ -1,0 +1,10 @@
+
+.listFilms {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+ .filmsContent {
+    padding: 50px;
+  }

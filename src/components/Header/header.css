@@ -1,0 +1,8 @@
+.nav-link {
+    color: grey !important;
+    font-size: 20px;
+  }
+  
+  .selected-link {
+    color: white !important;
+  }
